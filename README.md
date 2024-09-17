@@ -31,8 +31,8 @@ Same as 1 but with turkey data introduced
 
 ## Preprocessing Steps
 1. Checking if series is stationary
-   Using Augmented Dickey Fuller Test
+   Using `Augmented Dickey Fuller Test`
 2. Making the series stationary
-   Using Differencing
-3. Plotting ACF and PACF plots
+   Using `Differencing`
+3. Plotting `ACF` and `PACF` plots
    According to the plots mostly both the plots were same and the first lag was negative second lag onwards many lags were below the threshold

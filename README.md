@@ -16,12 +16,12 @@ Here I have tried these many model for time series forecasting on Bitcoin datase
 9. Random Forest (TF-DF)
 10. Gradient Boosted Trees (TF-DF)
 11. Prophet (Facebook Kats) (Requires Smoothening)
-12. Dense Model
-13. Same as 12
-14. Same as 12
+12. Dense Model (Window = 7, Horizon = 1)
+13. Dense Model (Window = 30, Horizon = 1)
+14. Dense Model (Window = 30, Horizon = 7)
 15. Conv1D
 16. LSTM
-17. Same as 12 but multivariate
+17. Dense (Multivariate Time series)
 18. N-BEATs Algorithm
 19. Ensemble
 20. Future Prediction model

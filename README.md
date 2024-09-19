@@ -16,18 +16,16 @@ Here I have tried these many model for time series forecasting on Bitcoin datase
 9. Random Forest (TF-DF)
 10. Gradient Boosted Trees (TF-DF)
 11. Prophet (Facebook Kats) (Requires Smoothening)
-12. Silverkite (LinkedIn Greykite) (Requires Smoothening)
-13. Dense Model
-14. Same as 1
-15. Same as 1
-16. Conv1D
-17. LSTM
-18. Same as 1 but multivariate
-19. N-BEATs Algorithm
-20. Ensemble
-21. Future Prediction model
-22. Same as 1 but with turkey data introduced
-Same as 1 but with turkey data introduced
+12. Dense Model
+13. Same as 12
+14. Same as 12
+15. Conv1D
+16. LSTM
+17. Same as 12 but multivariate
+18. N-BEATs Algorithm
+19. Ensemble
+20. Future Prediction model
+21. Same as 12 but with turkey data introduced
 
 ## Preprocessing Steps
 1. Checking if series is stationary

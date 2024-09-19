@@ -19,8 +19,8 @@ Here I have tried these many model for time series forecasting on Bitcoin datase
 12. Dense Model (Window = 7, Horizon = 1)
 13. Dense Model (Window = 30, Horizon = 1)
 14. Dense Model (Window = 30, Horizon = 7)
-15. Conv1D
-16. LSTM
+15. Conv1D (Window = 7, Horizon = 1)
+16. LSTM (Window = 7, Horizon = 1)
 17. Dense (Multivariate Time series)
 18. N-BEATs Algorithm
 19. Ensemble

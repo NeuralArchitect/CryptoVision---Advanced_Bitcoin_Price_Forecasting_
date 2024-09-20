@@ -1,6 +1,6 @@
 # CryptoVision : Advanced Bitcoin Price Forecasting
 
-Here I have tried these many model for time series forecasting on Bitcoin dataset from 17-7-2010 to 9-9-2024
+Here I have tried 20 models for time series forecasting on Bitcoin dataset from 17-7-2010 to 9-9-2024 and Best performance was given be `Ensemble Model`
 
 ## Statistical Models
 1. AR 
@@ -24,8 +24,7 @@ Here I have tried these many model for time series forecasting on Bitcoin datase
 17. Dense (Multivariate Time series)
 18. N-BEATs Algorithm
 19. Ensemble
-20. Future Prediction model
-21. Same as 12 but with turkey data introduced
+20. Simple ANN Model (Future Predictions)
 
 ## Preprocessing Steps
 1. Checking if series is stationary

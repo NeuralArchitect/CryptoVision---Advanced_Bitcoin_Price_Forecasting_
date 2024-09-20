@@ -2,6 +2,9 @@
 
 Here I have tried 20 models for time series forecasting on Bitcoin dataset from 17-7-2010 to 9-9-2024 and Best performance was given be `Ensemble Model`
 
+## Results
+![newplot](https://github.com/user-attachments/assets/9c876dca-4725-4173-bd86-250d761a4d4e)
+
 ## Statistical Models
 1. AR 
 2. MA
@@ -33,5 +36,3 @@ Here I have tried 20 models for time series forecasting on Bitcoin dataset from 
    Using `Differencing`
 3. Plotting `ACF` and `PACF` plots
    According to the plots mostly both the plots were same and the first lag was negative second lag onwards many lags were below the threshold
-## Results
-![newplot](https://github.com/user-attachments/assets/9c876dca-4725-4173-bd86-250d761a4d4e)

@@ -36,3 +36,6 @@ Here I have tried 20 models for time series forecasting on Bitcoin dataset from 
    Using `Differencing`
 3. Plotting `ACF` and `PACF` plots
    According to the plots mostly both the plots were same and the first lag was negative second lag onwards many lags were below the threshold
+
+# Conclusion 
+1. The test dataset was of 362 days (around 1 year) this is the main reason why the forecast of FB-Prophet, ARIMA, ARMA, AR, MA etc are not so good.

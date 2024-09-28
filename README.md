@@ -4,9 +4,9 @@ Here I have tried 20 models for time series forecasting on Bitcoin dataset from 
 Scalability was done by predicting on Top 50 Crypto creating a `PandasUDF` integrating it with `Pyspark`
 
 ## Scalabiltiy Results
-Percentage Improvement in Speed: `**7784.80%**`
+Percentage Improvement in Speed: `7784.80%`
 
-PySpark is `**78.85**` times more scalable than Pandas.
+PySpark is `78.85` times more scalable than Pandas.
 
 ## Model Comarison Results
 ![newplot](https://github.com/user-attachments/assets/9c876dca-4725-4173-bd86-250d761a4d4e)

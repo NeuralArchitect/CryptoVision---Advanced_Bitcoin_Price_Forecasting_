@@ -3,7 +3,7 @@
 ## Scalabiltiy Results
 Percentage Improvement in Speed: `7784.80%`
 
-PySpark is `78.85` times more scalable than Pandas.
+PySpark Output was `78.85` times more scalable than Pandas.
 
 ## Model Comarison Results
 ![newplot](https://github.com/user-attachments/assets/9c876dca-4725-4173-bd86-250d761a4d4e)
